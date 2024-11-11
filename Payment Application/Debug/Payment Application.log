@@ -1,0 +1,9 @@
+﻿  card.c
+D:\Payment Application\Payment Application\Card\card.c(14,13): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Payment Application\Payment Application\Card\card.c(70,15): warning C4013: 'isalpha' undefined; assuming extern returning int
+D:\Payment Application\Payment Application\Card\card.c(56,3): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+D:\Payment Application\Payment Application\Card\card.c(57,3): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+D:\Payment Application\Payment Application\Card\card.c(55,12): warning C4101: 'PAN': unreferenced local variable
+D:\Payment Application\Payment Application\Card\card.c(108,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Payment Application\Payment Application\Card\card.c(134): warning C4716: 'cards': must return a value
+  Payment Application.vcxproj -> D:\Payment Application\Debug\Payment Application.exe
