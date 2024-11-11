@@ -15,3 +15,10 @@ VOID: Cancels a transaction, typically used to correct errors like an incorrect 
 Complete Transaction Flow: Simulates SALE, REFUND, Pre-Authorization, and VOID transactions between the Card, ATM Terminal, and Server.
 Simulated Components: Models the interaction between a Card, ATM Terminal, and Server, enabling a realistic transaction experience.
 Educational Focus: Provides hands-on understanding of transaction types and how payment systems manage them.
+
+
+
+
+
+https://github.com/user-attachments/assets/d02d7a1f-7fb9-4b5a-93d9-fd5f87d8becb
+
